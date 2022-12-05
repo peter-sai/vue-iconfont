@@ -1,0 +1,9 @@
+{
+  "symbol_url": "http://at.alicdn.com/t/font_2558980_97chj4pupm9.js",
+  "use_typescript": false,
+  "save_dir": "./src/iconfont",
+  "trim_icon_prefix": "",
+  "unit": "px",
+  "default_icon_size": 18,
+  "excludes": ["iconlogo", "iconadd_icon1"]
+}
